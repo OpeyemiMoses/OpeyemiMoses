@@ -5,7 +5,7 @@
 *Creating autonomous systems & decentralized micro-payment engines for the next generation of the internet.*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=OpeyemiMoses&color=f59e0b&style=flat-square)](https://github.com/OpeyemiMoses)
-[![Twitter Follow](https://img.shields.io/twitter/follow/OpeyemiMoses?style=social)](https://twitter.com/OpeyemiMoses)
+[![Twitter Follow](https://img.shields.io/twitter/follow/OpeyemiMoses?style=social)](https://twitter.com/yemigraffix)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 I'm an AI engineer, Web3 builder, and full-stack systems architect focused on building intelligent developer tools, autonomous agents, and friction-free Web3 payment infrastructure. I specialize in turning difficult technical problems—like gasless mobile crypto micro-payouts and agent memory execution—into sleek, high-performing products that people love to use.
 
-* **Current Focus:** Scaling **[NimBounty](https://nim-bounty.vercel.app)** on Nimiq Pay Mainnet & building multi-agent MCP orchestration tools.
+* **Current Focus:** Scaling **[NimBounty](https://nimbounty-production.up.railway.app)** on Nimiq Pay Mainnet & building multi-agent MCP orchestration tools.
 * **Exploring:** Zero-Knowledge Proofs, Model Context Protocol (MCP), and Rust for high-throughput distributed systems.
 * **Ask Me About:** Nimiq Pay Mini Apps, HTML5 Canvas image compression, AI agent architecture, and Web3 UX optimization.
 
@@ -25,10 +25,10 @@ I'm an AI engineer, Web3 builder, and full-stack systems architect focused on bu
 
 | Project | Description | Tech Stack | Repos & Live Demos |
 | :--- | :--- | :--- | :--- |
-| **NimBounty** | Instant micro-task & crowd-testing engine with 0-gas off-chain signing & 1-click wallet payouts. | Nimiq Pay SDK, Node.js, Express, HTML5 Canvas | [GitHub](https://github.com/OpeyemiMoses/NimBounty) • [Live App](https://nim-bounty.vercel.app) |
+| **NimBounty** | Instant micro-task & crowd-testing engine with 0-gas off-chain signing & 1-click wallet payouts. | Nimiq Pay SDK, Node.js, Express, HTML5 Canvas | [GitHub](https://github.com/OpeyemiMoses/NimBounty) • [Live App](https://nimbounty-production.up.railway.app) |
 | **Cortex** | Persistent long-term memory engine & vector store connector for autonomous AI agents. | Python, FastAPI, VectorDB, Redis | [GitHub](https://github.com/OpeyemiMoses/Cortex) • [Docs](#) |
 | **ChainIntel** | Real-time blockchain transaction analytics & sybil threat detection suite. | Node.js, Web3.js, PostgreSQL | [GitHub](https://github.com/OpeyemiMoses/ChainIntel) • [Demo](#) |
-| **Callback** | High-performance webhook reliability & automatic retry dispatch infrastructure. | Go, Redis, Docker, Railway | [GitHub](https://github.com/OpeyemiMoses/Callback) • [Demo](#) |
+| **Callback** | High-performance webhook reliability & automatic retry dispatch infrastructure. | Go, Redis, Docker, Railway | [GitHub](https://github.com/OpeyemiMoses/Callback) • [Demo](https://callback-tnx.vercel.app) |
 | **ConClave** | Privacy-focused decentralized multi-signature coordination protocol. | Solidity, Ethereum, React, Ethers.js | [GitHub](https://github.com/OpeyemiMoses/ConClave) • [Demo](#) |
 
 ---
@@ -94,9 +94,6 @@ I'm an AI engineer, Web3 builder, and full-stack systems architect focused on bu
 ## GitHub Stats & Activity
 
 <div align="center">
-
-![Opeyemi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OpeyemiMoses&show_icons=true&theme=gold&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OpeyemiMoses&layout=compact&theme=gold)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=OpeyemiMoses&theme=gold)](https://git.io/streak-stats)
 
@@ -165,9 +162,9 @@ I'm an AI engineer, Web3 builder, and full-stack systems architect focused on bu
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpeyemiMoses)
-[![Twitter / X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OpeyemiMoses)
+[![Twitter / X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yemigraffix)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/OpeyemiMoses)
-[![Website](https://img.shields.io/badge/Live_App-f59e0b?style=for-the-badge&logo=nimiq&logoColor=black)](https://nim-bounty.vercel.app)
+[![Website](https://img.shields.io/badge/Live_App-f59e0b?style=for-the-badge&logo=nimiq&logoColor=black)](https://yemigraffix.vercel.app)
 
 </div>
 
@@ -208,12 +205,6 @@ Node.js / Express    ████████████░░░░░░░�
 CSS3 / Design Sys    ████░░░░░░░░░░░░░░░░░░░░  10%
 Python / Solidity    ██░░░░░░░░░░░░░░░░░░░░░░   4%
 ```
-
----
-
-## Now Playing on Spotify
-
-[![Spotify Currently Playing](https://spotify-github-readme.vercel.app/api?type=compact&theme=gold)](https://open.spotify.com)
 
 ---
 
