@@ -85,8 +85,8 @@ I'm an AI engineer, Web3 builder, and full-stack systems architect focused on bu
 
 1. **[NimBounty](https://github.com/OpeyemiMoses/NimBounty)** — Outcome-based micro-task bounty engine built natively for Nimiq Pay with zero gas fees.
 2. **[Cortex](https://github.com/OpeyemiMoses/Cortex)** — Modular memory architecture allowing LLM agents to recall context across sessions.
-3. **[ChainIntel](https://github.com/OpeyemiMoses/ChainIntel)** — On-chain analytics pipeline flagging suspicious wallet clustering & sybil attacks.
-4. **[Callback](https://github.com/OpeyemiMoses/Callback)** — Fault-tolerant webhook delivery queue with exponential backoff retries.
+3. **[ChainIntel](https://github.com/OpeyemiMoses/ChainInel)** — On-chain analytics pipeline flagging suspicious wallet clustering & sybil attacks.
+4. **[Callback](https://github.com/OpeyemiMoses/TokenCallback)** — Fault-tolerant webhook delivery queue with exponential backoff retries.
 5. **[ConClave](https://github.com/OpeyemiMoses/ConClave)** — Multi-party computation & non-custodial treasury management dashboard.
 
 ---
